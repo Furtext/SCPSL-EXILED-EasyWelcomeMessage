@@ -7,6 +7,8 @@ After you download the file, just place it into the EXILED Plugins folder.
 
 Default Location: "C:\Users\[username]\AppData\Roaming\EXILED\Plugins"
 
+Also you can install Exiled from here: "https://github.com/ExMod-Team/EXILED"
+
 # HOW TO CONFIGURE
 
 After you launch your server with the plugin, there should be a config file inside the EXILED folder.
