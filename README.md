@@ -22,4 +22,4 @@ If you want to make customized messages (like colored, bold, etc.), you can use 
 "https://docs.unity3d.com/6000.3/Documentation/Manual/UIE-supported-tags.html"
 
 Also, if you want to add emojis to your message, you can use this website:
-"https://emojidb.org/jolly-emojis" (Don't try to copy from Discord, etc.—use this website).
+"https://emojidb.org" (Don't try to copy from Discord, etc.—use this website).
